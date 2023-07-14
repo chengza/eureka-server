@@ -1,0 +1,1 @@
+### A simple runnable eureka server for simple applications and test.
